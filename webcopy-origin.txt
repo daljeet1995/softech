@@ -1,0 +1,932 @@
+Uri: http://radiantsoftech.com/
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\index.htm
+Content Type: text/html
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://gmpg.org/xfn/11
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\xfn\11.html
+Content Type: text/html
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.1&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/sticky-header-oceanwp//style.css?ver=5.8&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\sticky-header-oceanwp\style.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.15.1&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\themes\oceanwp\assets\css\third\simple-line-icons.min.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/themes/oceanwp/assets/css/third/magnific-popup.min.css?ver=1.0.0&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\themes\oceanwp\assets\css\third\magnific-popup.min.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/themes/oceanwp/assets/css/third/slick.min.css?ver=1.6.0&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\themes\oceanwp\assets\css\third\slick.min.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/themes/oceanwp/assets/css/style.min.css?ver=2.1.1&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\themes\oceanwp\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.11.0&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.2.5&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.2.5&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/elementor/css/post-5.css?ver=1624698357&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\elementor\css\post-5.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/elementor/css/global.css?ver=1624702613&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/elementor/css/post-11.css?ver=1624870786&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\elementor\css\post-11.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=5.8&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\ocean-extra\assets\css\widgets.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/ocean-social-sharing/assets/css/style.min.css?ver=5.8&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\ocean-social-sharing\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.8
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\css.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.1&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.1&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: http://radiantsoftech.com/wp-json/
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: http://radiantsoftech.com/wp-json/wp/v2/pages/11
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\wp\v2\pages\11.json
+Content Type: application/json
+
+Uri: http://radiantsoftech.com/xmlrpc.php?rsd
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\xmlrpc.php.xml
+Content Type: text/xml
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-includes/wlwmanifest.xml?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://radiantsoftech.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fradiantsoftech.com%2F
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: http://radiantsoftech.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fradiantsoftech.com%2F&format=xml
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: http://radiantsoftech.com/services/
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\services\index.htm
+Content Type: text/html
+
+Uri: http://radiantsoftech.com/blog/
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\blog\index.htm
+Content Type: text/html
+
+Uri: http://radiantsoftech.com/about-us/
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\about-us\index.htm
+Content Type: text/html
+
+Uri: http://radiantsoftech.com/contact-us/
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-518382844-612x612-Copy.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-518382844-612x612-Copy.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-582259008-612x612-Copy.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-582259008-612x612-Copy.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-590142286-612x612-1.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-590142286-612x612-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-688308178-612x612-1.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-688308178-612x612-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-910468040-612x612-1.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-910468040-612x612-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-931931016-612x612-1.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-931931016-612x612-1.jpg
+Content Type: image/jpeg
+
+Uri: http://radiantsoftech.com/2021/06/on-demand-food-ordering-and-delivery-application-development/
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\2021\06\on-demand-food-ordering-and-delivery-application-development\index.htm
+Content Type: text/html
+
+Uri: http://radiantsoftech.com/category/food/
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\category\food\index.htm
+Content Type: text/html
+
+Uri: http://radiantsoftech.com/author/shubham1996/
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\author\shubham1996\index.htm
+Content Type: text/html
+
+Uri: http://radiantsoftech.com/2021/06/seo-tips-to-boost-your-sales/
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\2021\06\seo-tips-to-boost-your-sales\index.htm
+Content Type: text/html
+
+Uri: http://radiantsoftech.com/category/technology/
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\category\technology\index.htm
+Content Type: text/html
+
+Uri: https://twitter.com/share?text=Home&url=http:%2F%2Fradiantsoftech.com%2F
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\share.html
+Content Type: text/html
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-includes/css/dashicons.min.css?ver=5.8&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/ninja-forms/assets/css/display-opinions-light.css?ver=5.8&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\ninja-forms\assets\css\display-opinions-light.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/ninja-forms/assets/css/font-awesome.min.css?ver=5.8&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\ninja-forms\assets\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/addons-for-elementor/assets/css/lae-frontend.css?ver=6.10.2&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\addons-for-elementor\assets\css\lae-frontend.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/addons-for-elementor/assets/css/lae-grid.css?ver=6.10.2&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\addons-for-elementor\assets\css\lae-grid.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/addons-for-elementor/assets/css/widgets/portfolio.css?ver=6.10.2&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\addons-for-elementor\assets\css\widgets\portfolio.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/sticky-header-oceanwp//main.js?ver=1.0.0&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\sticky-header-oceanwp\main.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/2345127.png?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\2345127.png
+Content Type: image/png
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/digital.png?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\digital.png
+Content Type: image/png
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/ui-ux.png?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\ui-ux.png
+Content Type: image/png
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/A.png?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\A.png
+Content Type: image/png
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-1218607956-612x612-1.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-1218607956-612x612-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-500021401-612x612-1.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-500021401-612x612-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-499257228-612x612-1.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-499257228-612x612-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-500021401-612x612-2.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-500021401-612x612-2.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-518382844-612x612-1.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-518382844-612x612-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-582259008-612x612-Copy-1.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-582259008-612x612-Copy-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-582259008-612x612-1.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-582259008-612x612-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-590142286-612x612-2.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-590142286-612x612-2.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-688308178-612x612-2.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-688308178-612x612-2.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-976684112-612x612-1.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-976684112-612x612-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-995295204-612x612-1.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-995295204-612x612-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-996221474-612x612-1.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-996221474-612x612-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-1218607956-612x612-1-150x150.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-1218607956-612x612-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-500021401-612x612-1-150x150.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-500021401-612x612-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/coblocks/dist/js/coblocks-animation.js?ver=2.16.0&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\coblocks\dist\js\coblocks-animation.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.1&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/themes/oceanwp/assets/js/third/magnific-popup.min.js?ver=2.1.1&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\themes\oceanwp\assets\js\third\magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/themes/oceanwp/assets/js/third/lightbox.min.js?ver=2.1.1&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\themes\oceanwp\assets\js\third\lightbox.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/themes/oceanwp/assets/js/main.min.js?ver=2.1.1&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\themes\oceanwp\assets\js\main.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/ocean-extra/includes/widgets/js/mailchimp.min.js?ver=5.8&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\ocean-extra\includes\widgets\js\mailchimp.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/ocean-extra/includes/widgets/js/share.min.js?ver=5.8&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\ocean-extra\includes\widgets\js\share.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/ocean-social-sharing/assets/js/social.min.js?ver=1.1.1&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\ocean-social-sharing\assets\js\social.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/ocean-stick-anything/assets/js/sticky-kit.min.js?ver=1.0.6&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\ocean-stick-anything\assets\js\sticky-kit.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/ocean-stick-anything/assets/js/main.min.js?ver=1.0.6&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\ocean-stick-anything\assets\js\main.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-includes/js/wp-embed.min.js?ver=5.8&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-includes/js/underscore.min.js?ver=1.8.3&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-includes/js/backbone.min.js?ver=1.4.0&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-includes\js\backbone.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/ninja-forms/assets/js/min/front-end-deps.js?ver=3.5.5&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\ninja-forms\assets\js\min\front-end-deps.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/ninja-forms/assets/js/min/front-end.js?ver=3.5.5&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\ninja-forms\assets\js\min\front-end.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/addons-for-elementor/assets/js/isotope.pkgd.min.js?ver=6.10.2&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\addons-for-elementor\assets\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/addons-for-elementor/assets/js/imagesloaded.pkgd.min.js?ver=6.10.2&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\addons-for-elementor\assets\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/addons-for-elementor/assets/js/lae-frontend.min.js?ver=6.10.2&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\addons-for-elementor\assets\js\lae-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.2.5&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.2.5&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.2.5&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.2.5&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/addons-for-elementor/assets/js/widgets/portfolio.min.js?ver=6.10.2&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\addons-for-elementor\assets\js\widgets\portfolio.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.2.5&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\elementor\assets\js\preloaded-modules.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-includes/js/wp-util.min.js?ver=5.8&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.6.7.2&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-518382844-612x612-Copy.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-518382844-612x612-Copy-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-518382844-612x612-Copy-300x194.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-518382844-612x612-Copy-300x194.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-582259008-612x612-Copy.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-582259008-612x612-Copy-2.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-582259008-612x612-Copy-300x200.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-582259008-612x612-Copy-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-590142286-612x612-1.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-590142286-612x612-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-590142286-612x612-1-300x217.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-590142286-612x612-1-300x217.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-688308178-612x612-1.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-688308178-612x612-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-688308178-612x612-1-300x200.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-688308178-612x612-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-910468040-612x612-1.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-910468040-612x612-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-910468040-612x612-1-300x189.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-910468040-612x612-1-300x189.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-931931016-612x612-1.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-931931016-612x612-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-931931016-612x612-1-300x200.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-931931016-612x612-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-1218607956-612x612-1.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-1218607956-612x612-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-1218607956-612x612-1-300x150.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-1218607956-612x612-1-300x150.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-500021401-612x612-1.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-500021401-612x612-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-500021401-612x612-1-300x200.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-500021401-612x612-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://wordpress.org/
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\index-1.htm
+Content Type: text/html
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/wpforms-lite/assets/css/wpforms-full.min.css?ver=1.6.7.2&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\wpforms-lite\assets\css\wpforms-full.min.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1630412151&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\essential-addons-elementor\734e5f942.min.css
+Content Type: text/css
+
+Uri: http://radiantsoftech.com/wp-json/wp/v2/pages/160
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\wp\v2\pages\160.json
+Content Type: application/json
+
+Uri: http://radiantsoftech.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fradiantsoftech.com%2Fservices%2F
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: http://radiantsoftech.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fradiantsoftech.com%2Fservices%2F&format=xml
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1630412151&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\essential-addons-elementor\734e5f942.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1630412162&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\essential-addons-elementor\734e5f942.min-1.css
+Content Type: text/css
+
+Uri: http://radiantsoftech.com/wp-json/wp/v2/pages/162
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\wp\v2\pages\162.json
+Content Type: application/json
+
+Uri: http://radiantsoftech.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fradiantsoftech.com%2Fblog%2F
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: http://radiantsoftech.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fradiantsoftech.com%2Fblog%2F&format=xml
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1630412162&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\essential-addons-elementor\734e5f942.min-1.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/elementor/css/post-156.css?ver=1624808003&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\elementor\css\post-156.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.1&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: http://radiantsoftech.com/wp-json/wp/v2/pages/156
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\wp\v2\pages\156.json
+Content Type: application/json
+
+Uri: http://radiantsoftech.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fradiantsoftech.com%2Fabout-us%2F
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: http://radiantsoftech.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fradiantsoftech.com%2Fabout-us%2F&format=xml
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/excellence.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\excellence.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/self.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\self.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/Integrity1.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\Integrity1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/Client-Engagement.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\Client-Engagement.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/Integrity.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\Integrity.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/innovation-1.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\innovation-1.jpg
+Content Type: image/jpeg
+
+Uri: https://twitter.com/share?text=About Us&url=http:%2F%2Fradiantsoftech.com%2Fabout-us%2F
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\share-1.html
+Content Type: text/html
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/it-service.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\it-service.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-1220739247-612x612-1.jpg?time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-1220739247-612x612-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/elementor/assets/images/placeholder.png
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\elementor\assets\images\placeholder.png
+Content Type: image/png
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/it-service.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\it-service-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/it-service-300x200.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\it-service-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/excellence.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\excellence-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/excellence-300x200.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\excellence-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/self.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\self-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/self-300x200.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\self-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/Integrity1.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\Integrity1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/Integrity1-300x200.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\Integrity1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/Client-Engagement.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\Client-Engagement-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/Client-Engagement-300x200.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\Client-Engagement-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/Integrity.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\Integrity-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/Integrity-300x200.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\Integrity-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/innovation-1.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\innovation-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/innovation-1-300x200.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\innovation-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-1220739247-612x612-1.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-1220739247-612x612-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-1220739247-612x612-1-300x145.jpg
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\2021\06\istockphoto-1220739247-612x612-1-300x145.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.8
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\css-1.css
+Content Type: text/css
+
+Uri: http://radiantsoftech.com/wp-json/wp/v2/pages/158
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\wp\v2\pages\158.json
+Content Type: application/json
+
+Uri: http://radiantsoftech.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fradiantsoftech.com%2Fcontact-us%2F
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: http://radiantsoftech.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fradiantsoftech.com%2Fcontact-us%2F&format=xml
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: http://radiantsoftech.com/2021/06/on-demand-food-ordering-and-delivery-application-development/feed/
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\2021\06\on-demand-food-ordering-and-delivery-application-development\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/elementor/css/post-395.css?ver=1624931455&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\uploads\elementor\css\post-395.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.8
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\css-2.css
+Content Type: text/css
+
+Uri: http://radiantsoftech.com/wp-json/wp/v2/posts/395
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\wp\v2\posts\395.json
+Content Type: application/json
+
+Uri: http://radiantsoftech.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fradiantsoftech.com%2F2021%2F06%2Fon-demand-food-ordering-and-delivery-application-development%2F
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: http://radiantsoftech.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fradiantsoftech.com%2F2021%2F06%2Fon-demand-food-ordering-and-delivery-application-development%2F&format=xml
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://twitter.com/share?text=On – Demand Food Ordering and Delivery Application Development&url=http:%2F%2Fradiantsoftech.com%2F2021%2F06%2Fon-demand-food-ordering-and-delivery-application-development%2F
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\share-2.html
+Content Type: text/html
+
+Uri: http://radiantsoftech.com/2021/06/
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\2021\06\index.htm
+Content Type: text/html
+
+Uri: http://radiantsoftech.com/wp-login.php
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-login.php.html
+Content Type: text/html
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-includes/js/comment-reply.min.js?ver=5.8&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: http://radiantsoftech.com/category/food/feed/
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\category\food\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/plugins/coblocks/dist/coblocks-style.css?ver=257ed163f6d3fe524e0586e72ea3f7f8&time=1629992291
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\160.153.137.210\apj.e5d.myftpupload.com\wp-content\plugins\coblocks\dist\coblocks-style.css
+Content Type: text/css
+
+Uri: http://radiantsoftech.com/wp-json/wp/v2/categories/4
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\wp\v2\categories\4.json
+Content Type: application/json
+
+Uri: http://radiantsoftech.com/author/shubham1996/feed/
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\author\shubham1996\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://radiantsoftech.com/wp-json/wp/v2/users/1
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\wp\v2\users\1.json
+Content Type: application/json
+
+Uri: http://radiantsoftech.com/2021/06/seo-tips-to-boost-your-sales/feed/
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\2021\06\seo-tips-to-boost-your-sales\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://radiantsoftech.com/wp-json/wp/v2/posts/123
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\wp\v2\posts\123.json
+Content Type: application/json
+
+Uri: http://radiantsoftech.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fradiantsoftech.com%2F2021%2F06%2Fseo-tips-to-boost-your-sales%2F
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: http://radiantsoftech.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fradiantsoftech.com%2F2021%2F06%2Fseo-tips-to-boost-your-sales%2F&format=xml
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://twitter.com/share?text=SEO Tips To Boost Your Sales&url=http:%2F%2Fradiantsoftech.com%2F2021%2F06%2Fseo-tips-to-boost-your-sales%2F
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\share-3.html
+Content Type: text/html
+
+Uri: http://radiantsoftech.com/category/technology/feed/
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\category\technology\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://radiantsoftech.com/wp-json/wp/v2/categories/2
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-json\wp\v2\categories\2.json
+Content Type: application/json
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fradiantsoftech.com%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=hi_IN&_rdr
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\login.php.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://in.pinterest.com/pin/create/button/?url=http:%2F%2Fradiantsoftech.com%2F&media=&description=Beautiful+Solutions+to+Complex+Problem+Seamless+collaboration%2C+total+transparency%2C+secure+deliver.+We’ve+developed+a+better+approach+to+custom+software+development.+READ+MORE+Talk+to+a+Consultant+Our+Offerings+Mobile+App+Development+Radiant+Softech+is+one+of+the+domain-leading+technology+companies%26hellip%3B
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\pin\create\button\index.htm
+Content Type: text/html
+
+Uri: https://www.linkedin.com/login?session_redirect=https:%2F%2Fwww.linkedin.com%2FshareArticle%3Fmini%3Dtrue%26url%3Dhttp:%252F%252Fradiantsoftech.com%252F%26title%3DHome%26summary%3DBeautiful%2BSolutions%2Bto%2BComplex%2BProblem%2BSeamless%2Bcollaboration%252C%2Btotal%2Btransparency%252C%2Bsecure%2Bdeliver.%2BWe%25E2%2580%2599ve%2Bdeveloped%2Ba%2Bbetter%2Bapproach%2Bto%2Bcustom%2Bsoftware%2Bdevelopment.%2BREAD%2BMORE%2BTalk%2Bto%2Ba%2BConsultant%2BOur%2BOfferings%2BMobile%2BApp%2BDevelopment%2BRadiant%2BSoftech%2Bis%2Bone%2Bof%2Bthe%2Bdomain-leading%2Btechnology%2Bcompanies%2526hellip%253B%26source%3Dhttp:%2F%2Fradiantsoftech.com%2F
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\login.html
+Content Type: text/html
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fradiantsoftech.com%252Fabout-us%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=hi_IN&_rdr
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\login.php-1.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://in.pinterest.com/pin/create/button/?url=http:%2F%2Fradiantsoftech.com%2Fabout-us%2F&media=&description=Know+About+Us+Radiant+softech+is+a+certified+website+and+application+development+company+established+in+year+2016.We+are+digital+natives+with+a+pioneering+approach+to+Ecommerce+solutions%2C+web+development%2C+Web+designing+%2C+software+development%2C+Software+Consulting%2C+Digital+Marketing%2C+Mobile+App%26hellip%3B
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\pin\create\button\index-1.htm
+Content Type: text/html
+
+Uri: https://www.linkedin.com/login?session_redirect=https:%2F%2Fwww.linkedin.com%2FshareArticle%3Fmini%3Dtrue%26url%3Dhttp%253A%252F%252Fradiantsoftech.com%252Fabout-us%252F%26title%3DAbout%2520Us%26summary%3DKnow%2BAbout%2BUs%2BRadiant%2Bsoftech%2Bis%2Ba%2Bcertified%2Bwebsite%2Band%2Bapplication%2Bdevelopment%2Bcompany%2Bestablished%2Bin%2Byear%2B2016.We%2Bare%2Bdigital%2Bnatives%2Bwith%2Ba%2Bpioneering%2Bapproach%2Bto%2BEcommerce%2Bsolutions%252C%2Bweb%2Bdevelopment%252C%2BWeb%2Bdesigning%2B%252C%2Bsoftware%2Bdevelopment%252C%2BSoftware%2BConsulting%252C%2BDigital%2BMarketing%252C%2BMobile%2BApp%2526hellip%253B%26source%3Dhttp:%2F%2Fradiantsoftech.com%2F
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\login-1.html
+Content Type: text/html
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fradiantsoftech.com%252F2021%252F06%252Fon-demand-food-ordering-and-delivery-application-development%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=hi_IN&_rdr
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\login.php-2.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://radiantsoftech.com/2021/06/on-demand-food-ordering-and-delivery-application-development/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://radiantsoftech.com/2021/06/on-demand-food-ordering-and-delivery-application-development/
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\ServiceLogin.html
+Content Type: text/html
+
+Uri: https://in.pinterest.com/pin/create/button/?url=http:%2F%2Fradiantsoftech.com%2F2021%2F06%2Fon-demand-food-ordering-and-delivery-application-development%2F&media=https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-1218607956-612x612-1.jpg?time=1629992291&description=We+are+living+in+an+era+of+the+digital+world%2C+where+online+shopping+is+not+a+new+thing+nowadays. User+stays+on+a+mobile+device+more+than+they+stay+at+their+homes.+This+is+a+good+time+to+start+any+online%26hellip%3B
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\pin\create\button\index-2.htm
+Content Type: text/html
+
+Uri: https://www.linkedin.com/login?session_redirect=https:%2F%2Fwww.linkedin.com%2FshareArticle%3Fmini%3Dtrue%26url%3Dhttp:%252F%252Fradiantsoftech.com%252F2021%252F06%252Fon-demand-food-ordering-and-delivery-application-development%252F%26title%3DOn%2520%25E2%2580%2593%2520Demand%2520Food%2520Ordering%2520and%2520Delivery%2520Application%2520Development%26summary%3DWe%2Bare%2Bliving%2Bin%2Ban%2Bera%2Bof%2Bthe%2Bdigital%2Bworld%252C%2Bwhere%2Bonline%2Bshopping%2Bis%2Bnot%2Ba%2Bnew%2Bthing%2Bnowadays.%25C2%25A0User%2Bstays%2Bon%2Ba%2Bmobile%2Bdevice%2Bmore%2Bthan%2Bthey%2Bstay%2Bat%2Btheir%2Bhomes.%2BThis%2Bis%2Ba%2Bgood%2Btime%2Bto%2Bstart%2Bany%2Bonline%2526hellip%253B%26source%3Dhttp:%2F%2Fradiantsoftech.com%2F
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\login-2.html
+Content Type: text/html
+
+Uri: https://www.reddit.com/login/?dest=https:%2F%2Fwww.reddit.com%2Fsubmit%3Furl%3Dhttp%253A%252F%252Fradiantsoftech.com%252F2021%252F06%252Fon-demand-food-ordering-and-delivery-application-development%252F%26title%3DOn%2B%25E2%2580%2593%2BDemand%2BFood%2BOrdering%2Band%2BDelivery%2BApplication%2BDevelopment
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\login\index.htm
+Content Type: text/html
+
+Uri: https://www.tumblr.com/login?redirect_to=https:%2F%2Fwww.tumblr.com%2Fwidgets%2Fshare%2Ftool%3FcanonicalUrl%3Dhttp%253A%252F%252Fradiantsoftech.com%252F2021%252F06%252Fon-demand-food-ordering-and-delivery-application-development%252F
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\login-3.html
+Content Type: text/html
+
+Uri: http://radiantsoftech.com/wp-includes/css/dashicons.min.css?ver=5.8
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: http://radiantsoftech.com/wp-includes/css/buttons.min.css?ver=5.8
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-includes\css\buttons.min.css
+Content Type: text/css
+
+Uri: http://radiantsoftech.com/wp-admin/css/forms.min.css?ver=5.8
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-admin\css\forms.min.css
+Content Type: text/css
+
+Uri: http://radiantsoftech.com/wp-admin/css/l10n.min.css?ver=5.8
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-admin\css\l10n.min.css
+Content Type: text/css
+
+Uri: http://radiantsoftech.com/wp-admin/css/login.min.css?ver=5.8
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-admin\css\login.min.css
+Content Type: text/css
+
+Uri: http://radiantsoftech.com/wp-login.php?action=lostpassword
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-login.php-1.html
+Content Type: text/html
+
+Uri: http://radiantsoftech.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://radiantsoftech.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://radiantsoftech.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: http://radiantsoftech.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: http://radiantsoftech.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: http://radiantsoftech.com/wp-includes/js/dist/hooks.min.js?ver=a7edae857aab69d69fa10d5aef23a5de
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: http://radiantsoftech.com/wp-includes/js/dist/i18n.min.js?ver=5f1269854226b4dd90450db411a12b79
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: http://radiantsoftech.com/wp-admin/js/password-strength-meter.min.js?ver=5.8
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: http://radiantsoftech.com/wp-includes/js/underscore.min.js?ver=1.8.3
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: http://radiantsoftech.com/wp-includes/js/wp-util.min.js?ver=5.8
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: http://radiantsoftech.com/wp-admin/js/user-profile.min.js?ver=5.8
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-admin\js\user-profile.min.js
+Content Type: application/javascript
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fradiantsoftech.com%252F2021%252F06%252Fseo-tips-to-boost-your-sales%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=hi_IN&_rdr
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\login.php-3.xhtml
+Content Type: application/xhtml+xml
+
+Uri: https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://radiantsoftech.com/2021/06/seo-tips-to-boost-your-sales/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://radiantsoftech.com/2021/06/seo-tips-to-boost-your-sales/
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\ServiceLogin-1.html
+Content Type: text/html
+
+Uri: https://in.pinterest.com/pin/create/button/?url=http:%2F%2Fradiantsoftech.com%2F2021%2F06%2Fseo-tips-to-boost-your-sales%2F&media=https://secureservercdn.net/160.153.137.210/apj.e5d.myftpupload.com/wp-content/uploads/2021/06/istockphoto-500021401-612x612-1.jpg?time=1629992291&description=I+am+text+block.+Click+edit+button+to+change+this+text.+Lorem+ipsum+dolor+sit+amet%2C+consectetur+adipiscing+elit.+Ut+elit+tellus%2C+luctus+nec+ullamcorper+mattis%2C+pulvinar+dapibus+leo.I+am+text+block.+Click+edit+button+to+change+this+text.+Lorem%26hellip%3B
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\pin\create\button\index-3.htm
+Content Type: text/html
+
+Uri: https://www.linkedin.com/login?session_redirect=https:%2F%2Fwww.linkedin.com%2FshareArticle%3Fmini%3Dtrue%26url%3Dhttp%253A%252F%252Fradiantsoftech.com%252F2021%252F06%252Fseo-tips-to-boost-your-sales%252F%26title%3DSEO%2520Tips%2520To%2520Boost%2520Your%2520Sales%26summary%3DI%2Bam%2Btext%2Bblock.%2BClick%2Bedit%2Bbutton%2Bto%2Bchange%2Bthis%2Btext.%2BLorem%2Bipsum%2Bdolor%2Bsit%2Bamet%252C%2Bconsectetur%2Badipiscing%2Belit.%2BUt%2Belit%2Btellus%252C%2Bluctus%2Bnec%2Bullamcorper%2Bmattis%252C%2Bpulvinar%2Bdapibus%2Bleo.I%2Bam%2Btext%2Bblock.%2BClick%2Bedit%2Bbutton%2Bto%2Bchange%2Bthis%2Btext.%2BLorem%2526hellip%253B%26source%3Dhttp:%2F%2Fradiantsoftech.com%2F
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\login-4.html
+Content Type: text/html
+
+Uri: https://www.reddit.com/login/?dest=https:%2F%2Fwww.reddit.com%2Fsubmit%3Furl%3Dhttp%253A%252F%252Fradiantsoftech.com%252F2021%252F06%252Fseo-tips-to-boost-your-sales%252F%26title%3DSEO%2BTips%2BTo%2BBoost%2BYour%2BSales
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\login\index-1.htm
+Content Type: text/html
+
+Uri: https://www.tumblr.com/widgets/share/tool/preview?canonicalUrl=http:%2F%2Fradiantsoftech.com%2F2021%2F06%2Fseo-tips-to-boost-your-sales%2F
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\widgets\share\tool\preview.html
+Content Type: text/html
+
+Uri: http://radiantsoftech.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://radiantsoftech.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-includes\fonts\dashicons.ttf
+Content Type: font/ttf
+
+Uri: http://radiantsoftech.com/wp-admin/images/loading.gif
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-admin\images\loading.gif
+Content Type: image/gif
+
+Uri: http://radiantsoftech.com/wp-admin/images/w-logo-blue.png?ver=20131202
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-admin\images\w-logo-blue.png
+Content Type: image/png
+
+Uri: http://radiantsoftech.com/wp-admin/images/wordpress-logo.svg?ver=20131107
+File Name: C:\Users\Desk1\Desktop\reg\radiantsoftech.com\wp-admin\images\wordpress-logo.svg
+Content Type: image/svg+xml
+

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Food &#8211; Radiant Softech</title>
+	<atom:link href="http://radiantsoftech.com/category/food/feed/" rel="self" type="application/rss+xml" />
+	<link>http://radiantsoftech.com</link>
+	<description>Provide IT Services</description>
+	<lastBuildDate>Mon, 28 Jun 2021 09:48:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>On – Demand Food Ordering and Delivery Application Development</title>
+		<link>http://radiantsoftech.com/2021/06/on-demand-food-ordering-and-delivery-application-development/</link>
+					<comments>http://radiantsoftech.com/2021/06/on-demand-food-ordering-and-delivery-application-development/#respond</comments>
+		
+		<dc:creator><![CDATA[shubham1996]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2021 09:29:56 +0000</pubDate>
+				<category><![CDATA[Food]]></category>
+		<guid isPermaLink="false">http://radiantsoftech.com/?p=395</guid>
+
+					<description><![CDATA[<p>Fresh. Fast. Tasty &#124; </p>
+<p>The post <a rel="nofollow" href="http://radiantsoftech.com/2021/06/on-demand-food-ordering-and-delivery-application-development/">On – Demand Food Ordering and Delivery Application Development</a> appeared first on <a rel="nofollow" href="http://radiantsoftech.com">Radiant Softech</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="395" class="elementor elementor-395" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-d9f7987 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d9f7987" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e4e7f05" data-id="e4e7f05" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-bb627b0 elementor-widget elementor-widget-text-editor" data-id="bb627b0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<p>We are living in an era of the digital world, where online shopping is not a new thing nowadays. User stays on a mobile device more than they stay at their homes. This is a good time to start any online business. Food is a domain that is always considered a growing industry. </p><p>It’s a time when your customer wants everything to be delivered at their home or office ranging from grocery, food, bakery items, etc. Also, companies are there to cater to these needs and taking advantage of this situation because they are very few in numbers.</p><p>Online delivery business not only sliced to food delivery only but it can be in every segment of different business industry. Online food delivery marketplace, Online grocery delivery marketplace, online bakery delivery marketplace, online item delivery marketplace, etc.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		<p>The post <a rel="nofollow" href="http://radiantsoftech.com/2021/06/on-demand-food-ordering-and-delivery-application-development/">On – Demand Food Ordering and Delivery Application Development</a> appeared first on <a rel="nofollow" href="http://radiantsoftech.com">Radiant Softech</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://radiantsoftech.com/2021/06/on-demand-food-ordering-and-delivery-application-development/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
